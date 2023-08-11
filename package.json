@@ -72,7 +72,7 @@
   "devDependencies": {
     "autoprefixer": "^10.4.8",
     "electron": "^20.0.2",
-    "electron-builder": "^23.3.3",
+    "electron-builder": "^24.6.3",
     "next": "^12.2.5",
     "postcss": "^8.4.16",
     "prettier": "^2.7.1",
